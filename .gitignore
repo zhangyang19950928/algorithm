@@ -1,0 +1,11 @@
+# Project exclude paths
+/ArrayStackDemo/target/
+/Calculator/target/
+/DoubleLinkedListDemo/target/
+/Josepfu/target/
+/LeetCode/target/
+/out/
+/PolandNotation/target/
+/Recursion/target/
+/SingleLinkedList/target/
+/Sort/target/

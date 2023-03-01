@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ArrayStackDemo" />
+        <module name="DoubleLinkedListDemo" />
+        <module name="LeetCode" />
+        <module name="Sort" />
+        <module name="Calculator" />
+        <module name="Josepfu" />
+        <module name="queue" />
+        <module name="PolandNotation" />
+        <module name="Search" />
+        <module name="aparsearray" />
+        <module name="SingleLinkedList" />
+        <module name="Recursion" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
