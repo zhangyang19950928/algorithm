@@ -101,6 +101,12 @@ public class Calculator {
 
 
     }
+
+    public static void test() {
+
+    }
+
+
 }
 
 
@@ -229,3 +235,4 @@ class ArrayStark {
     }
 
 }
+// 测试
